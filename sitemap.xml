@@ -4,6 +4,7 @@
   <url><loc>https://exverb.ai/about/</loc></url>
   <url><loc>https://exverb.ai/projects/</loc></url>
   <url><loc>https://exverb.ai/blog/</loc></url>
+  <url><loc>https://exverb.ai/privacy/</loc></url>
   <url><loc>https://exverb.ai/projects/customer-service-intent-classification/</loc></url>
   <url><loc>https://exverb.ai/projects/conversational-bi/</loc></url>
   <url><loc>https://exverb.ai/projects/tenant-isolation/</loc></url>
@@ -18,10 +19,10 @@
   <url><loc>https://exverb.ai/projects/data-ingestion/</loc></url>
   <url><loc>https://exverb.ai/projects/financial-reporting/</loc></url>
   <url><loc>https://exverb.ai/projects/structured-ai-evaluation-benchmark/</loc></url>
-  <url><loc>https://exverb.ai/blog/local-ai-for-business/</loc></url>
-  <url><loc>https://exverb.ai/blog/agentic-rag-production/</loc></url>
-  <url><loc>https://exverb.ai/blog/business-intelligence-agents/</loc></url>
-  <url><loc>https://exverb.ai/blog/ai-coaching-agent-evaluation/</loc></url>
-  <url><loc>https://exverb.ai/blog/ai-agent-permissions-production/</loc></url>
-  <url><loc>https://exverb.ai/blog/structured-output-evaluation-production/</loc></url>
+  <url><loc>https://exverb.ai/blog/local-ai-for-business/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://exverb.ai/blog/agentic-rag-production/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://exverb.ai/blog/business-intelligence-agents/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://exverb.ai/blog/ai-coaching-agent-evaluation/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://exverb.ai/blog/ai-agent-permissions-production/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://exverb.ai/blog/structured-output-evaluation-production/</loc><lastmod>2026-10-21</lastmod></url>
 </urlset>
